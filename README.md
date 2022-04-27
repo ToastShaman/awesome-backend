@@ -117,6 +117,7 @@ Netflix Hystrix, but designed for Java 8 and functional programming.
 - https://gojs.net/latest/ - Build Diagrams for the Web in JavaScript and TypeScript.
 - https://swimlanes.io/ - swimlanes.io is a simple online tool for creating sequence diagrams.
 - https://bpmn.io/ - Web-based tooling for BPMN, DMN and Forms.
+- https://graphviz.org/ - Graphviz is open source graph visualization software.
 
 ## Architecture
 
