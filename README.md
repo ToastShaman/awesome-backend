@@ -114,6 +114,9 @@ Netflix Hystrix, but designed for Java 8 and functional programming.
 - https://apiblueprint.org/ - API Blueprint is simple and accessible to everybody involved in the API lifecycle.
 - https://github.com/h-enk/doks - Doks is a Hugo theme for building secure, fast, and SEO-ready documentation websites, which you can easily update and customize.
 - https://www.diagrams.net/ - diagrams.net/draw.io is an open source technology stack for building diagramming applications, and the world’s most widely used browser-based end-user diagramming software.
+- https://gojs.net/latest/ - Build Diagrams for the Web in JavaScript and TypeScript.
+- https://swimlanes.io/ - swimlanes.io is a simple online tool for creating sequence diagrams.
+- https://bpmn.io/ - Web-based tooling for BPMN, DMN and Forms.
 
 ## Architecture
 
