@@ -134,6 +134,7 @@ Netflix Hystrix, but designed for Java 8 and functional programming.
 - https://www.osohq.com/ - Batteries-Included Authorization.
 - https://www.openpolicyagent.org/ - Policy-based control for cloud native environments.
 - https://github.com/authzed/spicedb - SpiceDB is a Zanzibar-inspired open source database system for managing security-critical application permissions.
+- https://github.com/michenriksen/drawio-threatmodeling - This is a collection of custom libraries to turn the free and cross-platform Draw.io diagramming application into the perfect tool for threat modeling.
 
 ## Cloud
 
