@@ -135,6 +135,10 @@ Netflix Hystrix, but designed for Java 8 and functional programming.
 - https://www.openpolicyagent.org/ - Policy-based control for cloud native environments.
 - https://github.com/authzed/spicedb - SpiceDB is a Zanzibar-inspired open source database system for managing security-critical application permissions.
 - https://github.com/michenriksen/drawio-threatmodeling - This is a collection of custom libraries to turn the free and cross-platform Draw.io diagramming application into the perfect tool for threat modeling.
+- https://threagile.io/ - Threagile enables teams to execute Agile Threat Modeling as seamless as possible, even highly-integrated into DevSecOps environments.
+- https://cheatsheetseries.owasp.org/cheatsheets/Threat_Modeling_Cheat_Sheet.html - Threat Modeling Cheat Sheet
+- https://owasp.org/www-project-threat-model-cookbook/ - OWASP Threat Model Cookbook
+- https://owasp.org/www-project-pytm/ - pytm is a Pythonic framework for threat modeling.
 
 ## Cloud
 
