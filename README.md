@@ -121,6 +121,7 @@ Netflix Hystrix, but designed for Java 8 and functional programming.
 - https://graphviz.org/ - Graphviz is open source graph visualization software.
 - https://pikchr.org/home/doc/trunk/homepage.md - Pikchr (pronounced "picture") is a PIC-like markup language for diagrams in technical documentation.
 - https://github.com/gopikchr/gopikchr - A direct port of pikchr.org's pikchr.y to Go, by hand.
+- https://kroki.io/ - Creates diagrams from textual descriptions!
 
 ## Architecture
 
