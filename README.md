@@ -140,6 +140,8 @@ Netflix Hystrix, but designed for Java 8 and functional programming.
 - https://cheatsheetseries.owasp.org/cheatsheets/Threat_Modeling_Cheat_Sheet.html - Threat Modeling Cheat Sheet
 - https://owasp.org/www-project-threat-model-cookbook/ - OWASP Threat Model Cookbook
 - https://owasp.org/www-project-pytm/ - pytm is a Pythonic framework for threat modeling.
+- https://attack.mitre.org/ - MITRE ATT&CK® is a globally-accessible knowledge base of adversary tactics and techniques based on real-world observations.
+- https://d3fend.mitre.org/ - A knowledge graph of cybersecurity countermeasures.
 
 ## Cloud
 
