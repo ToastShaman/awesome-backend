@@ -52,6 +52,7 @@ Netflix Hystrix, but designed for Java 8 and functional programming.
 - https://github.com/winstonjs/winston - A logger for just about everything.
 - https://github.com/microsoft/playwright - Playwright is a framework for Web Testing and Automation.
 - https://github.com/motdotla/dotenv - Dotenv is a zero-dependency module that loads environment variables from a .env file into process.env.
+- https://github.com/colinhacks/zod - Zod is a TypeScript-first schema declaration and validation library.
 - More... https://github.com/search?q=awesome-node
 
 ## Python
