@@ -162,6 +162,7 @@ Netflix Hystrix, but designed for Java 8 and functional programming.
 - https://roadmap.sh/backend - Step by step guide to becoming a modern backend developer in 2022.
 - https://monorepo.tools/ - Everything you need to know about monorepos, and the tools to build them.
 - https://nixos.org/ - Reproducible builds and deployments.
+- https://mjml.io/ - The only framework that makes responsive email easy.
 
 ## Books, Blogs and Articles
 
