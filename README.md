@@ -172,6 +172,7 @@ Netflix Hystrix, but designed for Java 8 and functional programming.
 - [ThoughtWorks: Technology Radar](https://www.thoughtworks.com/radar)
 - [How To Deal with Difficult People on Software Projects](https://www.howtodeal.dev/)
 - [Parse, Don't Validate](https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/)
+- [The Practical Test Pyramid](https://martinfowler.com/articles/practical-test-pyramid.html)
 
 ## Personal Note Taking
 
