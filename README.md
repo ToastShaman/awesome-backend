@@ -37,7 +37,9 @@ Netflix Hystrix, but designed for Java 8 and functional programming.
 - https://github.com/rs/zerolog - Zero Allocation JSON Logger
 - https://github.com/go-chi/chi - chi is a lightweight, idiomatic and composable router for building Go HTTP services.
 - https://github.com/gorilla/mux - Gorilla/Mux is a robust request router 
+- (Learn Go with tests)[https://quii.gitbook.io/learn-go-with-tests/]
 - More... https://github.com/search?q=awesome-go
+
 
 ## JavaScript / Node / Typescript
 
