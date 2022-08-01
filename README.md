@@ -26,6 +26,7 @@ Netflix Hystrix, but designed for Java 8 and functional programming.
 - https://github.com/SpectoLabs/hoverfly - API simulations for development and testing.
 - https://grpc.io/ - A high performance, open source universal RPC framework.
 - https://github.com/jmfayard/refreshVersions - refreshVersions helps Gradle users with the tedious manual work usually involved in adding and updating dependencies and their versions.
+- https://truth.dev/ - Fluent assertions for Java and Android.
 - More... https://github.com/search?q=awesome-kotlin
 - More... https://github.com/search?q=awesome-java
 
