@@ -147,6 +147,8 @@ Netflix Hystrix, but designed for Java 8 and functional programming.
 - https://owasp.org/www-project-pytm/ - pytm is a Pythonic framework for threat modeling.
 - https://attack.mitre.org/ - MITRE ATT&CK® is a globally-accessible knowledge base of adversary tactics and techniques based on real-world observations.
 - https://d3fend.mitre.org/ - A knowledge graph of cybersecurity countermeasures.
+- https://casbin.io/ - An authorization library that supports access control models like ACL, RBAC, ABAC.
+- https://www.openpolicyagent.org/ - Policy-based control for cloud native environments .
 
 ## Cloud
 
