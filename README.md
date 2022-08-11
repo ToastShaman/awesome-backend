@@ -80,6 +80,7 @@ Netflix Hystrix, but designed for Java 8 and functional programming.
 - https://github.com/npryce/snodge - A small, extensible Kotlin library to randomly mutate JSON & XML documents, text and binary data. Useful for fuzz testing.
 - https://www.postman.com/ - Postman is an API platform for building and using APIs.
 - https://github.com/awaitility/awaitility - Awaitility is a small Java DSL for synchronizing asynchronous operations.
+- https://github.com/datafaker-net/datafaker/ - Brings the popular ruby faker gem to Java.
 
 ## CI/CD
 
