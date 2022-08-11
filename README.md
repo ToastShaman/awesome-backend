@@ -100,6 +100,7 @@ Netflix Hystrix, but designed for Java 8 and functional programming.
 - https://trunkbaseddevelopment.com/ - A source-control branching model, where developers collaborate on code in a single branch called 'trunk'.
 - https://en.wikipedia.org/wiki/Software_design_pattern - In software engineering, a software design pattern is a general, reusable solution to a commonly occurring problem within a given context in software design.
 - https://netflixtechblog.com/ready-for-changes-with-hexagonal-architecture-b315ec967749 - The hexagonal architecture, or ports and adapters architecture, is an architectural pattern used in software design.
+- https://julien-topcu.medium.com/decoupling-your-technical-code-from-your-business-logic-with-the-hexagonal-architecture-hexarch-b4da7ba62079 - Hexagonal Architecture: the practical guide for a clean architecture.
 - https://en.wikipedia.org/wiki/Hexagonal_architecture_(software) - The hexagonal architecture, or ports and adapters architecture, is an architectural pattern used in software design.
 - https://www.liberatingstructures.com/ - Liberating Structures are easy-to-learn microstructures that enhance relational coordination and trust.
 - https://owasp.org/www-community/Threat_Modeling - Threat modeling works to identify, communicate, and understand threats and mitigations within the context of protecting something of value.
