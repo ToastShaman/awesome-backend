@@ -29,6 +29,7 @@ Netflix Hystrix, but designed for Java 8 and functional programming.
 - https://truth.dev/ - Fluent assertions for Java and Android.
 - https://mapstruct.org/ - Java bean mappings, the easy way!
 - https://github.com/kobylynskyi/graphql-java-codegen - GraphQL Codegen
+- https://github.com/ronmamo/reflections - Java runtime metadata analysis 
 - More... https://github.com/search?q=awesome-kotlin
 - More... https://github.com/search?q=awesome-java
 
