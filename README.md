@@ -27,6 +27,8 @@ Netflix Hystrix, but designed for Java 8 and functional programming.
 - https://grpc.io/ - A high performance, open source universal RPC framework.
 - https://github.com/jmfayard/refreshVersions - refreshVersions helps Gradle users with the tedious manual work usually involved in adding and updating dependencies and their versions.
 - https://truth.dev/ - Fluent assertions for Java and Android.
+- https://mapstruct.org/ - Java bean mappings, the easy way!
+- https://github.com/kobylynskyi/graphql-java-codegen - GraphQL Codegen
 - More... https://github.com/search?q=awesome-kotlin
 - More... https://github.com/search?q=awesome-java
 
@@ -184,6 +186,7 @@ Netflix Hystrix, but designed for Java 8 and functional programming.
 - [Parse, Don't Validate](https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/)
 - [The Practical Test Pyramid](https://martinfowler.com/articles/practical-test-pyramid.html)
 - [Nothing Can Save Us](http://oneeyedmen.com/nothing-can-save-us.html) - Kotlin trick for storing objects in a database
+
 ## Personal Note Taking
 
 - https://logseq.com/ - A privacy-first, open-source knowledge base.
