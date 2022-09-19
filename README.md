@@ -4,6 +4,7 @@ A curated list of awesome frameworks, libraries and software.
 
 ## Java / Kotlin
 
+- https://javalin.io/ - A simple web framework for Java and Kotlin
 - https://www.http4k.org/ - http4k provides a simple and uniform way to serve, consume, and test HTTP services.
 - https://spring.io/projects/spring-boot - Spring Boot makes it easy to create stand-alone, production-grade Spring based Applications that you can "just run".
 - https://github.com/FasterXML/jackson-databind - JSON parsing for Java.
