@@ -102,6 +102,7 @@ Netflix Hystrix, but designed for Java 8 and functional programming.
 
 ## Craftsmanship
 
+- https://commitizen-tools.github.io/commitizen/ - Create committing rules for projects.
 - https://www.conventionalcommits.org/en/v1.0.0/ - A specification for adding human and machine readable meaning to commit messages.
 - https://trunkbaseddevelopment.com/ - A source-control branching model, where developers collaborate on code in a single branch called 'trunk'.
 - https://en.wikipedia.org/wiki/Software_design_pattern - In software engineering, a software design pattern is a general, reusable solution to a commonly occurring problem within a given context in software design.
