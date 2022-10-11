@@ -121,6 +121,7 @@ Netflix Hystrix, but designed for Java 8 and functional programming.
 - https://adr.github.io/ - Architectural Decision Records
 - https://adr.github.io/madr/ - Markdown Architectural Decision Records
 - https://mermaid-js.github.io/mermaid - Mermaid lets you create diagrams and visualizations using text and code.
+- http://imagineui.io/en/ - Define your mockups in natural language
 - https://plantuml.com/ - Easily create beautiful UML Diagrams from simple textual description. There are also numerous kind of available diagrams.
 - https://github.com/mingrammer/diagrams - Diagrams lets you draw the cloud system architecture in Python code.
 - https://c4model.com/ - The C4 model for visualising software architecture
