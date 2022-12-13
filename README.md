@@ -140,6 +140,7 @@ Netflix Hystrix, but designed for Java 8 and functional programming.
 - https://github.com/gopikchr/gopikchr - A direct port of pikchr.org's pikchr.y to Go, by hand.
 - https://kroki.io/ - Creates diagrams from textual descriptions!
 - https://github.com/Mermade/widdershins - OpenAPI / Swagger / AsyncAPI / Semoasa definition to Slate / ReSlate compatible markdown
+- https://structurizr.com/help/lite - C4 Diagrams.
 
 ## Architecture
 
