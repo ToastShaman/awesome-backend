@@ -141,6 +141,7 @@ Netflix Hystrix, but designed for Java 8 and functional programming.
 - https://kroki.io/ - Creates diagrams from textual descriptions!
 - https://github.com/Mermade/widdershins - OpenAPI / Swagger / AsyncAPI / Semoasa definition to Slate / ReSlate compatible markdown
 - https://structurizr.com/help/lite - C4 Diagrams.
+- https://github.com/terrastruct/d2 - D2 is a modern diagram scripting language that turns text to diagrams. 
 
 ## Architecture
 
