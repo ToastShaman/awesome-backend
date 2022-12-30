@@ -188,6 +188,8 @@ Netflix Hystrix, but designed for Java 8 and functional programming.
 - https://monorepo.tools/ - Everything you need to know about monorepos, and the tools to build them.
 - https://nixos.org/ - Reproducible builds and deployments.
 - https://mjml.io/ - The only framework that makes responsive email easy.
+- https://monorepo.tools/ - Everything you need to know about monorepos, and the tools to build them.
+
 
 ## Books, Blogs and Articles
 
