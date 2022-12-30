@@ -206,3 +206,5 @@ Netflix Hystrix, but designed for Java 8 and functional programming.
 ## Personal Note Taking
 
 - https://logseq.com/ - A privacy-first, open-source knowledge base.
+- https://obsidian.md/ - Obsidian is a powerful and extensible knowledge base
+that works on top of your local folder of plain text files.
