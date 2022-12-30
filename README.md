@@ -70,6 +70,10 @@ Netflix Hystrix, but designed for Java 8 and functional programming.
 
 - More... https://github.com/search?q=awesome-python
 
+## Rust
+
+- https://rocket.rs/ - Rocket is a web framework for Rust that makes it simple to write fast, secure web applications without sacrificing flexibility, usability, or type safety.
+
 ## Testing
 
 - https://junit.org/junit5/docs/current/user-guide/ - JUnit 5 is the next generation of JUnit. The goal is to create an up-to-date foundation for developer-side testing on the JVM.
@@ -121,6 +125,7 @@ Netflix Hystrix, but designed for Java 8 and functional programming.
 
 ## Documentation & Diagrams As Code
 
+- https://text-to-diagram.com/ - Community list of comparisonsbetween Text to Diagram tools.
 - https://adr.github.io/ - Architectural Decision Records
 - https://adr.github.io/madr/ - Markdown Architectural Decision Records
 - https://mermaid-js.github.io/mermaid - Mermaid lets you create diagrams and visualizations using text and code.
