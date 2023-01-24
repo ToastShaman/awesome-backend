@@ -206,6 +206,7 @@ Netflix Hystrix, but designed for Java 8 and functional programming.
 - [The Practical Test Pyramid](https://martinfowler.com/articles/practical-test-pyramid.html)
 - [Nothing Can Save Us](http://oneeyedmen.com/nothing-can-save-us.html) - Kotlin trick for storing objects in a database
 - [Catalog of design patterns](https://refactoring.guru/design-patterns)
+- https://serverlessland.com/ - This site brings together the latest information, blogs, videos, code, and learning resources for AWS Serverless. Learn to use and build apps that scale automatically on low-cost, fully-managed serverless architecture.
 
 ## Personal Note Taking
 
