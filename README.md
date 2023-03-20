@@ -38,6 +38,10 @@ Netflix Hystrix, but designed for Java 8 and functional programming.
 - More... https://github.com/search?q=awesome-kotlin
 - More... https://github.com/search?q=awesome-java
 
+## Parsers
+
+- https://github.com/sirthias/parboiled - Elegant parsing in Java and Scala - lightweight, easy-to-use, powerful.
+
 ## GO
 
 - https://github.com/spf13/cobra - Cobra is a library providing a simple interface to create powerful modern CLI interfaces similar to git & go tools.
